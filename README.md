@@ -7,7 +7,7 @@ unpaid intern with DirecTV.
  
 - 💞️ I’m looking to collaborate on ... Anything easy that I can work on. 
 
-- 📫 How to reach me ... You can reach me on my discord Juler#5461, just mention that you saw my github or something.
+- 📫 How to reach me ... You can reach me on my discord Juler#5461, social media, and meme@memegames.net
 
 <!---
 julerobb1/julerobb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
