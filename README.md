@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julerobb1
 - 👀 I’m interested in ... Technology overall, Helping others, advancing my carrer, computers, amateur radio and the AT&T Longlines System/Network alongside Bell Labs and the Bell system. Use this invite code on discord! -> 9Jps5vmnMd
-- 🌱 I’m currently learning ... C++, how to make my websites look better. . 
+- 🌱 I’m currently learning ... C++,C# how to make my websites look better. . 
 - 🌱 I am currently unemployed, but open to gig work for web dev and things like that. 
  
 - 💞️ I’m looking to collaborate on ... Anything easy that I can work on. 
